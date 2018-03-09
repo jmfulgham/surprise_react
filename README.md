@@ -1,4 +1,3 @@
-# surprise_react
-More practice with React.js.
+# React surprise drill starting point
 
-A user clicks the Surprise button and an image appears.
+[GitHub](https://github.com/Thinkful-Ed/react-surprise-starting-point)
